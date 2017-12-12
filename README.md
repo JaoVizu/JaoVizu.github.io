@@ -1,2 +1,2 @@
-# http://wild.github.io
+# http://JaoVizu.github.io
 Site de estudos
