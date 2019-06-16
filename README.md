@@ -1,2 +1,1 @@
-# http://JaoVizu.github.io
-Site de estudos
+Site de estudos do curso da Origamid | <strong>Grid CSS</strong>
